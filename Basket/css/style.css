@@ -1,0 +1,36 @@
+i{
+    cursor: pointer;
+    font-size: 20px;
+    color: #fff;
+    position: relative;
+}
+header a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+}
+#count{
+    position: absolute;
+    top: -12px; 
+    right: -10px ;
+    font-size: 13px;
+    background-color: rgb(255, 255, 255);
+    color: green;
+    padding: 3px 6px;
+    border-radius: 100%;
+}
+
+#list .box{
+    border: 1px solid rgb(10, 83, 10);
+    padding: 15px;
+    border-radius: 5px;
+    margin: 20px 0;
+}
+#list img{
+    width: 100%;
+}
+
+.buttons{
+    margin: 20px;
+}
